@@ -1,4 +1,4 @@
 practice
 ========
 
-some code practices
+一些用于代码练习的片段
